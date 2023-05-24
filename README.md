@@ -11,15 +11,20 @@ Based on GniloAloe's SlimeX case, which is based on StonX.
 
 Gniloe's design was intended for SLA printers. SlimeX-FDM is an adjusted version designed to be easier to print on FDM machines.
 
-
-
-
 # ⚠️ Battery Safety Warning
-***ALWAYS** separate the battery from the circuit boards to protect the battery from being poked by solder joints. Use a piece of craft foam or the provided 3d-printable battery-protector plastic card.*
+- ***ALWAYS** separate the battery from the circuit boards to protect the battery from being poked by solder joints. Use a piece of craft foam or the provided 3d-printable battery-protector plastic card.*
 
-*This case design is a **very** tight fit and may put a considerable amount of pressure on the battery if assembled incorrectly.*
+- *Use V2 if you have battery tolerance issues!*
 
-*Always ensure that your battery is safe and not a bomb please. I do not want to be held accountable for exploding trackers.*
+- *This case design is a **very** tight fit and may put a considerable amount of pressure on the battery if assembled incorrectly.*
+
+- *Always ensure that your battery is safe and not a bomb please. I do not want to be held accountable for exploding trackers.*
+
+# 📄 Changelog
+| Version | Changes |
+| - | - |
+| V1 | Base Design |
+| V2 | More space for battery, slightly larger I2C port |
 
 # 📝 Guides
 Always refer to the [SlimeVR Docs](https://docs.slimevr.dev/index.html) for the most up-to-date information. If you have any questions, ask in the [SlimeVR Discord](https://discord.gg/SlimeVR), DM me on Discord [Yasu#4645] or send me an [E-Mail](mailto:contact@yasu3d.art)
