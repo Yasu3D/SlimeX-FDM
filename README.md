@@ -14,7 +14,7 @@ Gniloe's design was intended for SLA printers. SlimeX-FDM is an adjusted version
 # ⚠️ Battery Safety Warning
 - ***ALWAYS** separate the battery from the circuit boards to protect the battery from being poked by solder joints. Use a piece of craft foam or the provided 3d-printable battery-protector plastic card.*
 
-- *Don't use you have battery tolerance issues!*
+- *Don't use V1 if you have battery tolerance issues!*
 
 - *This case design is a **very** tight fit and may put a considerable amount of pressure on the battery if assembled incorrectly.*
 
