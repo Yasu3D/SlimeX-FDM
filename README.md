@@ -48,18 +48,15 @@ SlimeX-FDM was designed around these parts. Resistors and Diodes obviously fit a
 > 1mm JST connector cables rarely come in lengths longer than 15cm. The linked page offers up to 30cm.
 
 ## 3D Printing
+### Config
+***TL;DR** 0.4mm nozzle, 0.15mm layers, 15% gyroid infill, arachne.*
+
+Full config (that's been successful for me) can be found [here.](/Docs/SLICERCONFIG.md)
+
 ### Orientation/Arrangement
 All STL files are exported in their correct orientation. The hollow inside of each case piece should point up:
 ![print orientation](/Docs/print_orientation.png)
 > This allows the case to be printed with minimal supports.
-
-### Config
-- 0.4mm nozzle (0.6mm not tested yet, tolerances may be off.)
-- 0.12mm layer height (0.2mm should be ok too)
-- 25mm/s print speed (you can probably go higher)
-- 15% infill (cubic pattern)
-- PLA/PLA+
-- Organic Supports
 
 ### Supports
 If possible, use support-painting and organic supports with a slicer like PrusaSlicer 2.6.0.
