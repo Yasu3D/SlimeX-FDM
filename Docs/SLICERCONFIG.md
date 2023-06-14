@@ -2,7 +2,7 @@
 
 # 🖨️ My printer
 - Stock Voron 2.4r2 350mm (current)
-- Modded Ender 3 V2 (former)
+  - E3D v6 w/ 0.4mm nozzle
 
 # ⚙️ My config - using Prusaslicer 2.6.0-rc1
 
@@ -55,6 +55,8 @@ This is very printer-dependent. Don't blindly copy this.
 | First layer speed | 30mm/s |
 
 ## Filament
+
+- Sunlu Marble PLA+
 
 | Parameter | Value |
 | - | - |
