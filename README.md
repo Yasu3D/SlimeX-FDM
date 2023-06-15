@@ -27,6 +27,7 @@ Gniloe's design was intended for SLA printers. SlimeX-FDM is an adjusted version
 | V2 | More space for battery, slightly larger I2C port |
 | V3 | Complete remodel in Fusion360, .step file now available |
 | V3.1 | Improved the clips, cases should stay together better now. |
+| V3.2 | Fixed switch tolerances and made version text more readable. |
 
 # 📝 Guides
 Always refer to the [SlimeVR Docs](https://docs.slimevr.dev/index.html) for the most up-to-date information. If you have any questions, ask in the [SlimeVR Discord](https://discord.gg/SlimeVR), DM me on Discord [Yasu#4645] or send me an [E-Mail](mailto:contact@yasu3d.art)
