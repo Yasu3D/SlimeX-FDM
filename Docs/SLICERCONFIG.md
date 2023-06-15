@@ -4,6 +4,8 @@
 - Stock Voron 2.4r2 350mm (current)
   - E3D v6 w/ 0.4mm nozzle
 
+![works on my machine](/Docs/womm.png)
+
 # ⚙️ My config - using Prusaslicer 2.6.0-rc1
 
 ## Print
