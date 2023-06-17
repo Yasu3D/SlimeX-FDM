@@ -1,4 +1,4 @@
-### !! This case was designed for specific parts, check [Guides](/#-guides) for more info. !!
+### !! This case was designed for specific parts, check [Guides](/README.md#-guides) for more info. !!
  
  It *may* fit other parts, but those setups are neither tested nor supported.
 
