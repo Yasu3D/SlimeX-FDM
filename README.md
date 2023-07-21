@@ -28,6 +28,7 @@ Gniloe's design was intended for SLA printers. SlimeX-FDM is an adjusted version
 | V3 | Complete remodel in Fusion360, .step file now available |
 | V3.1 | Improved the clips, cases should stay together better now. |
 | V3.2 | Fixed switch tolerances and made version text more readable. |
+| V3.3 | Fixed case proportions on top and bottom, changed walls internally to get rid of gaps, changed i2c area to not destroy ports on insertion of wemos into slot, moved wemos pegs up for clearance, Inbuilt supports for top and buttom minus strap area, added indicator versions. |
 
 # 📝 Guides
 Always refer to the [SlimeVR Docs](https://docs.slimevr.dev/index.html) for the most up-to-date information. If you have any questions, ask in the [SlimeVR Discord](https://discord.gg/SlimeVR), DM me on Discord [Yasu#4645] or send me an [E-Mail](mailto:contact@yasu3d.art)
@@ -51,6 +52,7 @@ SlimeX-FDM was designed around these parts. Resistors and Diodes obviously fit a
 ## 3D Printing
 ### Config
 ***TL;DR** 0.4mm nozzle, 0.15mm layers, 15% gyroid infill, arachne.*
+***Can also print at .2 layer height, .2 initial layer height.*
 
 Full config (that's been successful for me) can be found [here.](/Docs/SLICERCONFIG.md)
 
