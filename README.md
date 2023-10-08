@@ -35,7 +35,7 @@ Always refer to the [SlimeVR Docs](https://docs.slimevr.dev/index.html) for the 
 
 ## Parts
 SlimeX-FDM was designed around these parts. Resistors and Diodes obviously fit as well.
- - Wemos D1 Mini V4 Wifi Board // [Aliexpress](https://de.aliexpress.com/item/1005004527213280.html)
+ - Wemos D1 Mini V4 Wifi Board // [Aliexpress](https://www.aliexpress.com/item/1005004605967379.html)
  - TP4056 USB-C Charger Board// [Aliexpress](https://www.aliexpress.com/item/1005004427739715.html)
  - SS22F32 Switch // [Aliexpress](https://www.aliexpress.com/item/1005003660190950.html)
  - BMI160 IMUs // [Aliexpress](https://www.aliexpress.com/item/4000084874141.html)
